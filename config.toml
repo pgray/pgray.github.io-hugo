@@ -1,0 +1,6 @@
+baseurl = "http://pgray.github.io/"
+contentdir = "content"
+defaultLayout = "post"
+languageCode = "en-us"
+title = "pgray"
+theme = "hugo-h5bp-simple"
