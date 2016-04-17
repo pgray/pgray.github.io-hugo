@@ -1,4 +1,4 @@
-baseurl = "http://pgray.github.io/"
+baseurl = "https://pgray.github.io/"
 contentdir = "content"
 defaultLayout = "post"
 languageCode = "en-us"
